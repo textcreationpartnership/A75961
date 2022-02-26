@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Against the observation of a day in memory of Christs birth written in 1659. and now tendred to the consideration of all sober and serious persons, this present Decemb. 1660. by a reverend divine.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75961</idno>
+            <idno type="STC">Wing A755A</idno>
+            <idno type="STC">ESTC R225968</idno>
+            <idno type="EEBO-CITATION">99899677</idno>
+            <idno type="PROQUEST">99899677</idno>
+            <idno type="VID">133739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2415:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Against the observation of a day in memory of Christs birth written in 1659. and now tendred to the consideration of all sober and serious persons, this present Decemb. 1660. by a reverend divine.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint conjectured by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Nativity --  Early works to 1800.</term>
+               <term>Religious thought --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:133739:1" rendition="simple:additions"/>
+            <head>Againſt the Obſervation of a Day in memory of <hi>Chriſts</hi> birth, written in <hi>1659.</hi> and now tendred to the conſideration of all ſober and ſerious Perſons, this preſent <hi>Decemb. 1660. by a reverend Divine.</hi>
+            </head>
+            <p n="1">1 HAve we any command or example in holy Scripture for the obſer<g ref="char:EOLhyphen"/>vation of this day or of any other in memo<g ref="char:EOLhyphen"/>ry of our Lords birth? <hi>Scripture is perfect,</hi> Pſal. 19. if there be no command or ex<g ref="char:EOLhyphen"/>ample, it is no duty.</p>
+            <p n="2">2 Did the Apoſtles after our Saviours aſcenſion keep this day or any other in me<g ref="char:EOLhyphen"/>mory of Chriſts birth? doe you pretend to more holineſſe then they?</p>
+            <p n="3">3 Would they have omitted it if it ought to have bin obſerved?</p>
+            <p n="4">4 Was it obſerved in the primitive Church for the firſt hundred yeares?</p>
+            <p n="5">5 How came it to be Chriſts day? tell us the original hereof that we may know whether it be of God or man? Is it like to be of God and no footſtep at all left hereof in his word! Neither precept nor example looking that way?</p>
+            <p>Hence we may ſafely conclude that it was ſet up by man; And what man ſetteth up, man may pluck down.</p>
+            <pb n="2" facs="tcp:133739:2"/>
+            <p n="6">6 Whether may not the Papiſts ſay as much for their heaps of Traditions as is or<g ref="char:EOLhyphen"/>dinarily ſaid for the obſervation of this day.</p>
+            <p>He that would read more on this ſubject may ſee in Maſter <hi>D. Cawdry</hi> his Book a<g ref="char:EOLhyphen"/>gainſt Doctor <hi>Hammond</hi> of ſuperſtitious worſhip and holy dayes, alſo in Mr. <hi>Baxter.</hi>
+            </p>
+            <p>If it could be proved to be the mind of God that we ſhould obſerve a day in memo<g ref="char:EOLhyphen"/>ry of Chriſts birth, I doubt not but that there are many yet left among us who would make conſcience hereof, although it be now forbidden by the Magiſtrate. But it is ſo far from being a duty that it is no hard matter to prove it to be a ſin.</p>
+            <p>For firſt it cannot be denyed but that there is ſuch a ſin as wil-worſhip, which is a breach of the ſecond Commandment, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Therefore ſecondly, ſee if this be not that ſin.</p>
+            <p>
+               <hi>Paraeus</hi> defines it thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>eſt ſpecies ſubtilior Idololatriae quum Deus colitur commentis humanis,</hi> Col. 2.8. <hi>Hominum tra<g ref="char:EOLhyphen"/>ditiones, Jdem. verſ.</hi> 16.18. <hi>&amp;</hi> 23. A ſhew of wiſdom, <hi>cultu voluntario, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Def.</hi> Wil-worſhip is a more refined kind of Idolatry, when God is worſhiped with wayes of Mans deviſing.</p>
+            <p>Again thus. <hi>Superſtitio eſt Peccatum pre<g ref="char:EOLhyphen"/>cepto
+<pb n="3" facs="tcp:133739:2"/>ſecundo prohibitum quo vero Deo cultus adhibetur indebitus quoad actus &amp; media reli<g ref="char:EOLhyphen"/>gionis externa.</hi>
+            </p>
+            <p>If then the obſervation of a day in me<g ref="char:EOLhyphen"/>mory of our Saviours birth, be an invention of man; If it be <hi>cultus indebitus</hi> (eſpecially being counted a matter of conſcience by ſome) It cannot eſcape the juſt cenſure of wil-worſhip, ſuperſtition, and a breach of the ſecond Commandment.</p>
+            <p>
+               <hi>Objection.</hi> Doe not men apoint dayes of thankſgiving for mercyes received, and it is eſteemed a duty? yea ſome men keep yearly their birth-day or wedding-day, and on that day feaſt and give to the poor. How much more may we apoint a day to keep in me<g ref="char:EOLhyphen"/>mory the greateſt mercy that ever mankind enjoyed? Is this great memoriall of our Saviour eſteemed wil-worſhip, and ſuper<g ref="char:EOLhyphen"/>ſtition; and therefore ſinfull. And are our ordinary dayes of thankſgiving for provi<g ref="char:EOLhyphen"/>dential tranſient mercyes eſteemed dutyes?</p>
+            <p>
+               <hi>Anſw.</hi> If man apoint dayes of memorials and commemoration of mercies received, it is lawfull for the ſame power that apointed them, or any ſucceeding powers to alter them, or take them clean away. Here is no ſuperſtition, we enjoy our Chriſtian liberty, no obligation lyes on the conſcience, but for
+<pb n="4" facs="tcp:133739:3"/>this memorial of Chriſts nativity, we con<g ref="char:EOLhyphen"/>tend for it as neceſſary, and find fault with them that omit it, which proves that we affect this time ſuperſtitiouſly.</p>
+            <p>
+               <hi>2d. Anſw.</hi> If God had not already laid down, and apointed what memorials of his Son Jeſus Chriſt he would have to be ob<g ref="char:EOLhyphen"/>ſerved in his Church: we then might have done it, and the objection might have the more ſtrength: But where God hath de<g ref="char:EOLhyphen"/>elared what memorials of Chriſt he will have: For man to come in and ſuper-ad, is a breach of the ſecond Commandment; and a ſin frequently condemned in Scripture; This is to worſhip God with mens inventi<g ref="char:EOLhyphen"/>ons, to find fault with his wiſedom, as if he did not enough; and therefore we will doe more: This is to ſet our poſt by his Poſts, and our threſhold by his threſhold, as <hi>Ezek.</hi> 43.8. which the holy Ghoſt cals abomina<g ref="char:EOLhyphen"/>tion. The memorials which God hath ap<g ref="char:EOLhyphen"/>pointed are in every week the firſt day, and this meerly in thankfulneſs for Jeſus Chriſt, for before the coming of Chriſt there was another day ſet apart for the ſervice of God.</p>
+            <p>And <hi>2dly,</hi> The two Sacraments are com<g ref="char:EOLhyphen"/>memorations of the Lord Jeſus, among o<g ref="char:EOLhyphen"/>ther uſes of them. The Lords Supper we are commanded to celebrate often, that ſo
+<pb n="5" facs="tcp:133739:3"/>we may keep a frequent remembrance of our Saviour Chriſt. And obſerve that it is a conſtant begining of departure from God to worſhip him in wayes of our own devi<g ref="char:EOLhyphen"/>ſing, and conſequently with times of our own deviſing, when as we have times pre<g ref="char:EOLhyphen"/>ſcribed by himſelf. In this we follow the Papiſts, who in all parts of Gods worſhip have ſome addition of their own, <hi>aliquid amplius,</hi> God hath given two Sacraments, they add five more, God hath given one way to expiate ſin, they find out more, as Maſſes, Pilgrimages, &amp;c. So here to the memorials of Chriſt which God hath com<g ref="char:EOLhyphen"/>manded, we will add, <hi>aliquid amplius, Hoſe.</hi> 8.14. <hi>Iſrael hath forgotten his Maker, and buildeth Temples:</hi> It is ſtrange he ſhould be found fault with for building Temples; yes, if God will have but one Temple, and they build more, it is called a forgetting his Ma<g ref="char:EOLhyphen"/>ker; ſo for building Altars, <hi>verſ.</hi> 11. <hi>Gualter.</hi> If the written word of God be not a rule to direct us, how far ſhall we run? and where ſhall we ſtop: If it cannot be manife<g ref="char:EOLhyphen"/>ſted by ſcripture or by arguments derived from Scripture, we may as well obſerve all the Papiſts unwritten Traditions. Specious pretences of love to religion, firſt brought in Images into Churches, and then a reve<g ref="char:EOLhyphen"/>rent
+<pb n="6" facs="tcp:133739:4"/>eſteem of the Perſons they repreſent<g ref="char:EOLhyphen"/>ed brought in worſhip of Images; And an ill-guided love to Chriſt brought in the a<g ref="char:EOLhyphen"/>doration of his Mother; and ſo Idolatry came in with a ſide-wind, the ſame which hath uſhered in this <hi>Chriſtmas day.</hi> Give way to this, and I pray tell me where we ſhall ſtop. Jeremi. 10.3. <hi>The cuſtomes of the people are vain.</hi> We may invent a thouſand ſeveral ſorts of ſervices to almighty God, and urge our zeale to his ſervice, and our good meanings, and as much as is ſaid in de<g ref="char:EOLhyphen"/>fence of this ſolemnity, and yet all will in the end meet with that objurgation,
+<q>Quis haec a manu veſtra poſtulavit?</q>
+            </p>
+            <p>If we have not Scripture for our rule, there will be no bounds to our ſervices. I will add a word more, (though no Argu<g ref="char:EOLhyphen"/>ment) It is a ſolemnity which God did ne<g ref="char:EOLhyphen"/>ver bleſſe, it hath been kept like the hea<g ref="char:EOLhyphen"/>then <hi>Bacchanalia,</hi> diceing and drinking, fool<g ref="char:EOLhyphen"/>ing and lewdneſſe, as if the Chriſtians God were a maſter of Revels, the Divell hath had for the moſt part more ſervice in the twelve dayes then God in the twelve moneths.</p>
+            <p>Maſter <hi>Mocket</hi> hath alſo written a Book on this ſubject. And read Maſter <hi>Baxter's</hi> Arguments. Whatever concerned our Sa<g ref="char:EOLhyphen"/>viour Chriſt, which the holy Ghoſt thought
+<pb n="7" facs="tcp:133739:4"/>fit to make known, is exactly laid down in Scripture. As 1. The Town where he was born. 2. What Houſe? An Inn. 3. The place in the Inn, a ſtable, where he was laid in the manger. 4. Yea, a further particular is men<g ref="char:EOLhyphen"/>tioned, the very cloaths he was wrapt in. Luk. 2. But for the time! <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. as fore<g ref="char:EOLhyphen"/>ſeeing our diſtemper. Yet is there a great averſneſs in people from letting goe this ſolemnity.</p>
+            <p n="1">1 One reaſon may be, becauſe of our na<g ref="char:EOLhyphen"/>turall inclination (eſpecially in youth) to merriments, gamings, and ſuch kind of gam<g ref="char:EOLhyphen"/>bols as are ordinarily the chief keeping of <hi>Chriſtmas.</hi> 2. Another reaſon may be be<g ref="char:EOLhyphen"/>cauſe it was forbidden by that Authority who were guilty of introduceing ſo great evils among us, as in the ſtate arbitrary go<g ref="char:EOLhyphen"/>vernment; and in the Church contempt of Gods Ordinances, &amp;c. Now when the people ſaw this ſolemnity checkt by ſuch men; <hi>Quis tulerit Gracchos?</hi> They thought ſure it was done on as litle grounds as ſome other things then removed. But if they had done no worſe things then taking away this feſtivall, we ſhould not have had ſo much cauſe to mourn under their miſgovernment as we had.</p>
+            <p>
+               <label>Object.</label> Oh but the Angels in heaven re<g ref="char:EOLhyphen"/>joyced
+<pb n="8" facs="tcp:133739:5" rendition="simple:additions"/>at his birth, and ſhall not we?</p>
+            <p>
+               <label>Anſw.</label> This is arguing, <hi>a baculo ad Angu<g ref="char:EOLhyphen"/>lum.</hi> Rejoyce in your Saviour. What is this to keeping holy dayes for his birth? Juſt thus the Papiſts for the Virgin <hi>Mary,</hi> what can you doe too much, in honour of Chriſts bleſſed Mother? <hi>Reſp.</hi> Yes, if we give her ſuch honour as God doth not approve of, even ſo in this caſe. Beſides, conſider the many inconveniences attending hereupon, Men muſt neglect their callings divers dayes together to ſpend their time in fooling, and break the command, which ſaith 6. days ſhalt thou labour.</p>
+            <p>
+               <label>Object.</label> A time of relaxation from labour is but convenient once in the year. <hi>Semel in Anno ridet Apollo.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> If this be granted, it muſt be upon a civil not on a religious account.</p>
+            <p>If we act without ground from the written word of God, if it be in ſpiritual things it ſoon becomes wil-worſhip, if in temporals we are out of Gods way and ſo out of his protection.</p>
+            <p>
+               <label>Object.</label> Why was not this lookt into before, have we not had truth among us till now?</p>
+            <p>
+               <label>Reſp.</label> Doe not corruptions grow in any Church and then there muſt be a time to remove them; bleſſed be God we keep fundamentals. It was al<g ref="char:EOLhyphen"/>way the will of God that Adultery ſhould be pun<g ref="char:EOLhyphen"/>iſhed with death, yet hath it not been ſo by the law of the Land till of late.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
